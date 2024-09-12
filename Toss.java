@@ -4,5 +4,7 @@ public class Toss {
         System.out.println("Rohit sharma and virat is opening today");
         System.out.println("strac is opening the bowling");
         System.out.println("hj");
+                System.out.println("hello");
+
     }
 }
