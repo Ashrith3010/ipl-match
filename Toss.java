@@ -5,6 +5,7 @@ public class Toss {
         System.out.println("strac is opening the bowling");
         System.out.println("hj");
                 System.out.println("hello");
+                System.out.println("hello");
 
     }
 }
